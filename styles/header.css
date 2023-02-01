@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.header-headline {
+  font-weight: bold;
+  font-size: 32px;
+  margin-bottom: 4px;
+}
+
+.header-button-text,
+.header-headline-subtext {
+  font-weight: bold;
+  font-size: 14px;
+  color: hsl(228, 34%, 66%);
+}
+

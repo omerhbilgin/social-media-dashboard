@@ -1,0 +1,45 @@
+body {
+  background-color: hsl(230, 17%, 14%);
+  color: white;
+  margin: 50px 200px;
+  font-family: 'Inter', sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.small-font {
+  font-size: 14px;
+}
+
+.smaller-font {
+  font-size: 13px;
+} 
+
+.bold-font {
+  font-weight: bold;
+}
+
+.grayish-color {
+  color: hsl(228, 34%, 66%);;
+}
+
+.lime-green {
+  color: hsl(163, 72%, 41%);
+}
+
+.bright-red {
+  color: hsl(356, 69%, 56%);
+}
+
+.up-arrow {
+  margin-bottom: 2px;
+  margin-right: 4px;
+}
+
+.down-arrow {
+  margin-bottom: 2px;
+  margin-right: 4px;
+}
