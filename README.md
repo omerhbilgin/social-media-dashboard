@@ -1,14 +1,8 @@
 # Social Media Dashboard Front End Design
 
-## Table of contents
-- [Screenshot](#screenshot)
-- [Author](#author)
-
-## Screenshot
+This is the solution to a Front End Mentor challenge!
 
 ![](./screenshot.png)
-
-## Author
 
 - Website - [Ömer Hamza Bilgin](https://www.omerhamzabilgin.com)
 - Frontend Mentor - [@omerhbilgin](https://www.frontendmentor.io/profile/omerhbilgin)
