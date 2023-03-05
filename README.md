@@ -1,15 +1,10 @@
 # Social Media Dashboard Front End Design
 
 ## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Screenshot](#screenshot)
 - [Author](#author)
 
-## Overview
-
-### Screenshot
+## Screenshot
 
 ![](./screenshot.png)
 
