@@ -2,6 +2,8 @@
 
 This is the solution to a Front End Mentor challenge!
 
+You can view the design live in GitHub Pages.
+
 ![](./screenshot.png)
 
 - Website - [Ömer Hamza Bilgin](https://www.omerhamzabilgin.com)
